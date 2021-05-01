@@ -1,0 +1,14 @@
+{
+  "name": "nebihub",
+  "version": "0.0.1",
+  "description": "",
+  "main": "nebihub.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "author": "nebihub",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
